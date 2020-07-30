@@ -4,7 +4,7 @@ site_description: A curious life
 site_author: Harsha Hegde
 docs_dir: home
 site_dir: public
-repo_url: https://github.com/harshakhegde/harshakhegde
+repo_url: https://github.com/harshakhegde/harshakhegde.github.io
 edit_uri: blob/master/home/
 plugins:
   - search
