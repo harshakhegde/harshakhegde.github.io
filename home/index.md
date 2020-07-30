@@ -16,4 +16,4 @@ I like simplicity in solution. I reckon that I get this from my father.
 - Short stories
 - Nature
 
-
+`This site is powered by CI/CD using github-action`
