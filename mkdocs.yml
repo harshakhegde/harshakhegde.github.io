@@ -8,6 +8,8 @@ repo_url: https://github.com/harshakhegde/harshakhegde.github.io
 edit_uri: blob/master/home/
 plugins:
   - search
+  - awesome-pages
+  - emailprotect
   - git-revision-date:
       as_datetime: true
 # Extensions
