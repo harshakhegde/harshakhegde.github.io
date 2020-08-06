@@ -24,8 +24,8 @@ I am working as an Engineering Manager in Cisco Webex Meetings solution, with ha
 
 #### Key responsibilities
 
-- Building and managing a suite of microservices that enable Webex to interop with various service providers
-- Build and own microservice that enables real-time transcription service for Cisco Webex.
+- Building and managing microservices that handles media anchoring in Cisco Webex
+- Build and own microservice that enables real-time transcription service for Cisco Webex
 - Develop and deliver high-impact, forward-looking roadmaps for the teams
 - Sprint planning, prioritization of deliverables and stakeholder alignment
 - Fostering a culture of DevOps for sustained growth of the product
