@@ -11,7 +11,7 @@
 ## About Me
 Engineering Manager in Cisco Systems with 13+ years of industry experience building large scale distributed systems and microservices from development to operation while managing, coaching, hiring and retaining top talent in the industry for over 4 years.
 
-Technology enthusiast with expertise in Java, Microservices, Cloud Native and Cluster Management technologies.
+Technology enthusiast with expertise in Java, Microservices, Cloud Native and Cluster Management technologies such as Kubernetes.
 
 I am a strong believer that good engineering culture leads to good products.
 
