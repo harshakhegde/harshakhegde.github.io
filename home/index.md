@@ -1,9 +1,8 @@
-# Welcome Earthling!
+# Hello Earthling!
 
 This is my virtual abode. This will give you a sneak peek into me.
-I like traveling, reading and exploring new food. 
-I am a [south paw](https://www.lexico.com/en/definition/southpaw), an [introvert](https://www.lexico.com/en/definition/introvert) and an [ovo-lacto vegetarian](https://en.wikipedia.org/wiki/Ovo-lacto_vegetarianism) !
-I am an Engineer by profession and by heart
+I like traveling, reading, exploring new food and a Star Wars fan
+I am an Engineer by profession and by heart and obsessed about the right Engineering Culture
 
 ### Engineering
 I am an Engineer by profession and by heart. I like solving and fixing things around me. 
