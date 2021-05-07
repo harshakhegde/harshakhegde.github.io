@@ -9,7 +9,7 @@
 </p>
 
 ## About Me
-Engineering Manager in Cisco Systems with 13+ years of industry experience building large scale distributed systems and microservices from development to operation while managing, coaching, hiring and retaining top talent in the industry for over 4 years.
+Engineering Manager in Atlassian with 13+ years of industry experience building large scale distributed systems and microservices from development to operation while managing, coaching, hiring and retaining top talent in the industry for over 4 years.
 
 Technology enthusiast with expertise in Java, Microservices, Cloud Native and Cluster Management technologies such as Kubernetes.
 
@@ -17,8 +17,18 @@ I am a strong believer that good engineering culture leads to good products.
 
 ## EXPERIENCE
 
+### Engineering Manager, Atlassian
+Working as an Engineering Manager and site lead for Customer Support Technology. We build the platform that is used by millions of Atlassian users and Customer Support agents to provide top notch product support
+
+- Hiring best of class developers and helping them with career progression that is beneficial to the TEAM and the individual
+- Mentoring developers to significantly improve influence and broaden their impact
+- Building a highly scaleable and flexible customer support platform. 
+- Constantly innovating our DevOps, SRE, release management processes
+- Being at the top of the game on the tech stack with Java, Kotlin, springboot, AWS to name a few
+
+
 ### Engineering Manager, Cisco Systems India
-- APRIL 2019 - Till Date
+- APRIL 2019 - FEB 2021
 
 I am working as an Engineering Manager in Cisco Webex Meetings solution, with hands-on experience in designing and running large scale microservices that handle Webex media load
 
