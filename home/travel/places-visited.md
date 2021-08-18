@@ -65,6 +65,8 @@
 - Rome
 - Venice
 
+### Vatican City
+
 ### Germany
 - Walldorf
 - Constance lake
@@ -84,6 +86,7 @@
 ### Switzerland
 - Interlaken -Jungfraujoch
 - Zurich
+
 
 
 
