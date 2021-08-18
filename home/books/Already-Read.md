@@ -18,3 +18,4 @@
 | Sita: Warrior of Mithila | Amish Tripathi |
 | Raavan: Enemy of Aryavarta | Amish Tripathi |
 | Malgudi Days | R.K. Narayan |
+| Tiananmen Square: The Making of a Protest | Vijay Gokhale |
