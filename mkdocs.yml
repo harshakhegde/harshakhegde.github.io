@@ -8,13 +8,11 @@ repo_url: https://github.com/harshakhegde/harshakhegde.github.io
 edit_uri: blob/master/home/
 plugins:
   - search
-  - git-revision-date:
-      as_datetime: true
 # Extensions
 markdown_extensions:
   - admonition
   - codehilite:
         guess_lang: true
 theme:
-  name: material
+  name: mkdocs
   custom_dir: custom_theme
