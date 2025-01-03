@@ -7,7 +7,7 @@ baseurl: ""      # place folder name if the site is served in a subfolder
 header_pages:
   - wisdom.markdown
   - about.markdown
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima # This is get minima 3, the one that gh offer is 2.5
 minima:
   skin: solarized
   social_links:

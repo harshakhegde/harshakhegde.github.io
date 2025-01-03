@@ -6,6 +6,6 @@ permalink: /about/
 
 * Star-Wars Fan
 * Bengalurian
-* Father
+* Father/Husband
 * Engineering Cuture advocate
 * Sports enthusiast
