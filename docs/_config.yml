@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Byte-Force
-description: version 1.0.1 >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:"
+Version 1.0.1
 
 
 
