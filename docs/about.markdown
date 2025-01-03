@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the Digital abode of Harsha Hegde
+* Star-Wars Fan
+* Bengalurian
+* Father
+* Engineering Cuture advocate
+* Sports enthusiast

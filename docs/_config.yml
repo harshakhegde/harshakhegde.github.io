@@ -31,14 +31,22 @@ url: https://harshakhegde.github.io  # the base hostname and protocol for your s
 baseurl: ""      # place folder name if the site is served in a subfolder
 
 
-github_username:  harshakhegde
+
 
 # Build settings
 
-remote_theme: pages-themes/hacker@v0.2.0
+header_pages:
+  - wisdom.markdown
+  - about.markdown
 
 
-theme: minima
+
+remote_theme: jekyll/minima
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/harshakhegde" }
+    - { platform: x, user_url: "https://x.com/harshahegdek" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/harshakhegde/" }
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
