@@ -2,7 +2,7 @@
 layout: post
 title:  "Comfort Zone vs Safety Circle"
 date:   2025-01-17 13:49:16 +0530
-categories: wisdom
+categories: leadership culture
 ---
 **Comfort Zone** - Something where you are comfortable being. I do not feel awkward, I do not feel anxious. This is my comfort zone.
 
