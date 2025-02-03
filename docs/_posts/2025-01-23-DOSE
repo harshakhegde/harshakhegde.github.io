@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Signs that your project is going to FAIL"
+date:   2025-02-03 11:10:16 +0530
+categories: leadership culture
+---
+
+
+These are the nine signs that your project is going to FAIL
+1. Success Depends on Perfect Plans
+There is no perfect plan. Keep your plan flexible for Time or Scope. Otherwise there will be burnout or quality issues or worse both!
+
+2. Too Many People
+Throwing people at the problem makes it worse. You should have spent a lot of time to have a strong generalist team for this to work. This never works.
+Practical is to have smaller team working with a great degree of ownership and autonomy with clearly defined problems in a an environment of high degree of team work. 
+
+3. Process Over Outcomes
+Do not over index on process, look for the outcome and have a process around it. Process over outcome is putting the cart before the horse. Have metrics around outcome. Do not measure something simply because you can measure it (sometimes easily). Things like pull request count or velocity or burn down do not mean anything if there is no outcome
+
+4. Slow to Make Simple Changes
+One must be able to make simple changes without thinking much about it. Teams should know what they need to achieve, "the why". How will they measure the success? And they need to operate in an environment where there is autonomy with accountability (ownership)
+
+5. Dev Team Morale 
+A team that is not high on morale is almost likely to fail. 
+
+6. Reliance on Heroes 
+Heroes are mostly enjoyed in comics and movies. There should be no reliance on a hero. The Team is The Hero. 
+
+7. Low Scores on DORA Metrics
+DevOps Research and Assessment (DORA metrics)
+*  Deployment frequency (DF)
+How often code changes are deployed to production. This metric can help teams identify ways to improve their delivery speed. 
+* Lead time for changes (LT)
+How long it takes for a code change to be deployed. This metric can help teams identify areas for process improvement. 
+* Change failure rate (CFR)
+The percentage of deployments that result in failures. This metric can help teams understand the quality of their code and the time spent fixing failures. 
+* Mean time to recovery (MTTR)
+How long it takes to restore service after an outage or failure. This metric can help teams quantify and track downtime
+
+8. Big Steps
+As the saying goes 'Only way to eat an elephant is one bite at a time'. Big steps are big failure in the waiting. Iterate fast, fail fast
+
+9. Poor, or No, Feedback Loops 
+You not only iterate fast but also need to have a feedback mechanism on how that iteration is doing. Both engineering wise and from business impact. Talk to stakeholders, look at the dashboards. Bring in this feedback into your next iterations
