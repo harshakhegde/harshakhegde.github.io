@@ -22,4 +22,4 @@ I shall add a few from my experience
 9. You can bring the best of them without being toxic.
 10. You can do all the above with some empathy
 
-I have had some managers who may have been good, or even awesome, Engineers but horrible Managers. They lack many of those things listed above. Engineer to Manager is not a promotion is a step function change in how you operate. If you cannot signup for that then DO NOT take up that role. You will not only spoil your career but also many others in your team.
+I have had some managers who may have been good (or even awesome) Engineers. But they were horrible Managers. They lack many of those things listed above. Engineer to Manager is not a promotion is a step function change in how you operate. If you cannot signup for that then DO NOT take up that role. You will not only spoil your career but also many others in your team.
