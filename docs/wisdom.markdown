@@ -22,5 +22,6 @@ permalink: /Wisdom/
 16. Spend your life in the companies of geniuses, sages, children and books
 17. If you were OK with being unhappy, would you still be unhappy?
 18. A ship is always safe at the shore, but that is not what it is built for- Growth happens when you step out of the comfort zone
+19. You can't improve what you don't measure
 
 ￼
